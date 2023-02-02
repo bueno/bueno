@@ -1,4 +1,4 @@
-## Hello! I am Rick Bueno! I’m just a software engineer making apps and games and trying to live a fun life
+## Hello! I'm Rick Bueno! I’m just a software engineer making apps and games and trying to live a fun life
 
 <div>
   <a href="https://github.com/bueno">
